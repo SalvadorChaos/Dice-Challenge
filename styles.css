@@ -10,18 +10,9 @@
 
 }
 
-.tag {
+.site {
   color: white;
   text-decoration: none;
-}
-
-.twitter {
-  color: white;
-  text-decoration: none;
-}
-
-.twitter:hover {
-  color: skyblue;
 }
 
 body {
